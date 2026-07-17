@@ -22,6 +22,21 @@
 
 `nature-skills` collects reusable research skills for AI scholars worldwide, with an emphasis on real problem solving, verifiable workflows, and research outputs that can be used directly.
 
+## Table of Contents
+
+- [1. Project Founder and Operations](#1-project-founder-and-operations)
+- [2. Nature Skills Core Developers](#2-nature-skills-core-developers)
+- [3. Project Philosophy and Community](#3-project-philosophy-and-community)
+- [4. Quick Start](#4-quick-start)
+- [5. Installation](#5-installation)
+  - [5.1 `npx skills` Installation](#51-npx-skills-installation)
+  - [5.2 Claude Code Installation](#52-claude-code-installation)
+  - [5.3 Codex Installation](#53-codex-installation)
+  - [5.4 Other Agent Scenarios](#54-other-agent-scenarios)
+- [6. Skill Index](#6-skill-index)
+- [7. Contribution and Development](#7-contribution-and-development)
+- [8. Star History](#8-star-history)
+
 ## 1. Project Founder and Operations
 
 ### 1.1 Founder Introduction
@@ -42,11 +57,12 @@ Knowledge Planet name: **Nature Skills and the Philosophy Behind It**.
 
 <img width="325" height="256" alt="ChatGPT Plus and Pro services" src="https://github.com/user-attachments/assets/0c7bc267-cedb-4c54-bdb5-a3b9a6a51848" />
 
-## 2. Core Developers
+## 2. Nature Skills Core Developers
 
 | Developer | Project Role | Main Focus and Contributions | Profiles and Contact |
 |---|---|---|---|
 | **Yizhe Yuan** | Founder / Maintainer | Project initiation, skill-system design, and community operations | — |
+| **Xin-Rui Ma** | Core Developer | Day-to-day skills maintenance | [Gmail](mailto:travisma2233@gmail.com) |
 | **Bin Hu** | Major Contributor | Agentic agents and AI for Science | [GitHub](https://github.com/Flyme886) · [Email](mailto:mhoang12205@gmail.com) |
 
 ## 3. Project Philosophy and Community
@@ -97,21 +113,6 @@ Knowledge Planet name: **Nature Skills and the Philosophy Behind It**.
     </td>
   </tr>
 </table>
-
-## Table of Contents
-
-- [1. Project Founder and Operations](#1-project-founder-and-operations)
-- [2. Core Developers](#2-core-developers)
-- [3. Project Philosophy and Community](#3-project-philosophy-and-community)
-- [4. Quick Start](#4-quick-start)
-- [5. Installation](#5-installation)
-  - [5.1 `npx skills` Installation](#51-npx-skills-installation)
-  - [5.2 Claude Code Installation](#52-claude-code-installation)
-  - [5.3 Codex Installation](#53-codex-installation)
-  - [5.4 Other Agent Scenarios](#54-other-agent-scenarios)
-- [6. Skill Index](#6-skill-index)
-- [7. Contribution and Development](#7-contribution-and-development)
-- [8. Star History](#8-star-history)
 
 ## 4. Quick Start
 
